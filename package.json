@@ -4,7 +4,8 @@
   "description": "Extends ActionText to support highlighed code blocks",
   "main": "app/assets/javascripts/action_text_syntax_highlighter.js",
   "files": [
-    "app/javascript/actiontext/*.js"
+    "app/assets/javascripts/*.js",
+    "app/frontend/action_text_syntax_highlighter/css/themes/*.css"
   ],
   "homepage": "https://github.com/ayushn21/actiontext-syntax-highlighter",
   "repository": {
@@ -19,4 +20,10 @@
   "peerDependencies": {
     "@rails/actiontext": "^6.0.0"
   },
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "esbuild-loader": "^2.10.0",
+    "webpack": "^5.6.0",
+    "webpack-cli": "^4.2.0"
+  }
 }

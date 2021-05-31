@@ -1,3 +1,2 @@
-import { ActionTextSyntaxHighlighter } from "./actiontext_syntax_highlighter"
-
-ActionTextSyntaxHighlighter.start()
+ import "./javascript/actiontext_syntax_highlighter"
+ import "./css/highlighted_code_block.css"
