@@ -3,9 +3,6 @@ require "active_support/rails"
 require "nokogiri"
 require "rouge"
 
-require "action_text_syntax_highlighter/version"
-require "action_text_syntax_highlighter/engine"
-
 module ActionTextSyntaxHighlighter
   extend ActiveSupport::Autoload
 

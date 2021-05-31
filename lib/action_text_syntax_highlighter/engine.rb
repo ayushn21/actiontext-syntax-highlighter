@@ -1,5 +1,14 @@
+require "action_text_syntax_highlighter"
+
 module ActionTextSyntaxHighlighter
   class Engine < ::Rails::Engine
+    isolate_namespace ActionTextSyntaxHighlighter
+    config.eager_load_namespaces << ActionTextSyntaxHighlighter
+    config.autoload_once_paths = %W(
+      #{root}/app/controllers
+      #{root}/app/models
+      #{root}/app/jobs
+    )
 
     config.action_text_syntax_highlighter = ActiveSupport::OrderedOptions.new
 
