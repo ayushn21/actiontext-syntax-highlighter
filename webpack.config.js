@@ -5,7 +5,7 @@ module.exports = {
   devtool: "source-map",
   output: {
     path: path.resolve(__dirname, "dist"),
-    filename: "action_text_syntax_highlighter.js",
+    filename: "index.js",
   },
   resolve: {
     extensions: [".js"],

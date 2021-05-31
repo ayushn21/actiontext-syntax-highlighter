@@ -24,8 +24,8 @@ namespace :frontend do
     p "Bundling frontend for use in browser..."
 
     `yarn webpack --mode production`
-    `cp dist/action_text_syntax_highlighter.js app/assets/javascripts/action_text_syntax_highlighter.js`
-    `cp dist/action_text_syntax_highlighter.js.map app/assets/javascripts/action_text_syntax_highlighter.js.map`
+    `cp dist/index.js app/assets/javascripts/action_text_syntax_highlighter.js`
+    `cp dist/index.js.map app/assets/javascripts/action_text_syntax_highlighter.js.map`
 
     p "Done!"
   end
