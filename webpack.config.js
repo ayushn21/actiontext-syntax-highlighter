@@ -23,7 +23,7 @@ module.exports = {
         },
       },
       {
-        test: /\.(s[ac]|c)ss$/,
+        test: /\.css$/,
         use: {
           loader: "css-loader",
           options: {
