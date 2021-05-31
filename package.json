@@ -17,6 +17,9 @@
   },
   "author": "Ayush Newatia",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
   "peerDependencies": {
     "@rails/actiontext": "^6.0.0"
   },

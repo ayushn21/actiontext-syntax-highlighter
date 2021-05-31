@@ -1,7 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  entry: "./app/frontend/index.js",
+  entry: "./app/frontend/action_text_syntax_highlighter/index.js",
   devtool: "source-map",
   output: {
     path: path.resolve(__dirname, "app", "assets", "javascripts"),
