@@ -1,5 +1,5 @@
 module ActionTextSyntaxHighlighter
-  class HighlightedCodeBlockTest < ActiveSupport::TestCase
+  class HighlightedCodeBlockRenderingTest < ActiveSupport::TestCase
     test "tries to guess language if it's missing" do
 
     end
