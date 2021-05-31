@@ -24,7 +24,7 @@ class ActionTextSyntaxHighlighter::HighlightedCodeBlock < ApplicationRecord
   end
 
   def to_trix_content_attachment_partial_path
-    "action_text/highlighted_code_blocks/editor"
+    "action_text_syntax_highlighter/highlighted_code_blocks/editor"
   end
 
   private

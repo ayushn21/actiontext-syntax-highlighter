@@ -5,7 +5,7 @@ module ActionTextSyntaxHighlighter
       @document = Nokogiri::HTML::DocumentFragment.parse(body.to_html)
       @document.css("pre").each do |node|
         code_block_content = sanitizer.sanitize node.inner_html
-        code_block = ActionText::HighlightedCodeBlock.create(content: code_block_content)
+        code_block = ActionTextSyntaxHighlighter::HighlightedCodeBlock.create(content: code_block_content)
         node.swap attachment_node_for(code_block)
       end
 

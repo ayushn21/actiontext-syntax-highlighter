@@ -43,7 +43,7 @@ export class TrixCodeBlockHighlighter {
 
     // Setup the first highlighted code block which triggers a re-render
     // and sets them all up via the connectedCallback
-    this.element.querySelector("highlighted-code-block").setup()
+    this.element.querySelector("highlighted-code-block")?.setup()
   }
 
   interceptToolbarCodeButton() {
