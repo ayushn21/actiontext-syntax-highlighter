@@ -1,0 +1,27 @@
+trix-editor pre[contenteditable] {
+  -webkit-user-select: text;
+  user-select: text;
+}
+trix-editor pre[contenteditable]::selection {
+  background: highlight;
+  color: highlightText;
+}
+trix-editor select[name=language] {
+  margin: 0.4em 0;
+  font-size: 0.8em;
+  padding: 0.4em 0;
+}
+highlighted-code-block > pre {
+  text-align: left;
+  outline: none;
+}
+highlighted-code-block > select {
+  display: inline-block;
+  float: right;
+}
+figure[data-trix-mutable][data-trix-highlighted-code-block] pre {
+  box-shadow: 0 0 0 1px highlight;
+}
+trix-toolbar[data-highlights-code-blocks] [data-trix-attribute=code].trix-active {
+  pointer-events: none;
+}

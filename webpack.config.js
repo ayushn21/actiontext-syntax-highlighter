@@ -4,7 +4,7 @@ module.exports = {
   entry: "./app/frontend/action_text_syntax_highlighter/index.js",
   devtool: "source-map",
   output: {
-    path: path.resolve(__dirname, "app", "assets", "javascripts"),
+    path: path.resolve(__dirname, "dist"),
     filename: "action_text_syntax_highlighter.js",
   },
   resolve: {
@@ -19,7 +19,9 @@ module.exports = {
         test: /\.js/,
         use: {
           loader: 'esbuild-loader',
-          options: { target: 'es2016' }
+          options: {
+            target: 'es2016'
+          }
         },
       },
       {
