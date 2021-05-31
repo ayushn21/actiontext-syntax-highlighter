@@ -5,7 +5,7 @@ require "rails/all"
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
-require "actiontext/syntax/highlighter"
+require "action_text_syntax_highlighter"
 
 module Dummy
   class Application < Rails::Application
