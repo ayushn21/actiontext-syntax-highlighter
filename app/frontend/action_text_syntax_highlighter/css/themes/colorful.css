@@ -1,0 +1,174 @@
+.trix-content pre[data-theme='colorful'] table td { padding: 5px; }
+.trix-content pre[data-theme='colorful'] table pre { margin: 0; }
+.trix-content pre[data-theme='colorful'], .trix-content pre[data-theme='colorful'] .w {
+  color: #bbbbbb;
+  background-color: #000;
+}
+.trix-content pre[data-theme='colorful'] .c, .trix-content pre[data-theme='colorful'] .ch, .trix-content pre[data-theme='colorful'] .cd, .trix-content pre[data-theme='colorful'] .cm, .trix-content pre[data-theme='colorful'] .cpf, .trix-content pre[data-theme='colorful'] .c1 {
+  color: #888;
+}
+.trix-content pre[data-theme='colorful'] .cp {
+  color: #579;
+}
+.trix-content pre[data-theme='colorful'] .cs {
+  color: #cc0000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .k, .trix-content pre[data-theme='colorful'] .kc, .trix-content pre[data-theme='colorful'] .kd, .trix-content pre[data-theme='colorful'] .kn, .trix-content pre[data-theme='colorful'] .kr, .trix-content pre[data-theme='colorful'] .kv {
+  color: #080;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .kp {
+  color: #038;
+}
+.trix-content pre[data-theme='colorful'] .kt {
+  color: #339;
+}
+.trix-content pre[data-theme='colorful'] .o {
+  color: #333;
+}
+.trix-content pre[data-theme='colorful'] .ow {
+  color: #000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .nb, .trix-content pre[data-theme='colorful'] .bp {
+  color: #007020;
+}
+.trix-content pre[data-theme='colorful'] .nf, .trix-content pre[data-theme='colorful'] .fm {
+  color: #06B;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .nc {
+  color: #B06;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .nn {
+  color: #0e84b5;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .ne {
+  color: #F00;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .nv, .trix-content pre[data-theme='colorful'] .vm {
+  color: #963;
+}
+.trix-content pre[data-theme='colorful'] .vi {
+  color: #33B;
+}
+.trix-content pre[data-theme='colorful'] .vc {
+  color: #369;
+}
+.trix-content pre[data-theme='colorful'] .vg {
+  color: #d70;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .no {
+  color: #036;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .nl {
+  color: #970;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .ni {
+  color: #800;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .na {
+  color: #00C;
+}
+.trix-content pre[data-theme='colorful'] .nt {
+  color: #070;
+}
+.trix-content pre[data-theme='colorful'] .nd {
+  color: #555;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .s, .trix-content pre[data-theme='colorful'] .sb, .trix-content pre[data-theme='colorful'] .dl, .trix-content pre[data-theme='colorful'] .s2, .trix-content pre[data-theme='colorful'] .sh, .trix-content pre[data-theme='colorful'] .s1 {
+  background-color: #fff0f0;
+}
+.trix-content pre[data-theme='colorful'] .sa {
+  color: #080;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .sc {
+  color: #04D;
+}
+.trix-content pre[data-theme='colorful'] .sd {
+  color: #D42;
+}
+.trix-content pre[data-theme='colorful'] .si {
+  background-color: #eee;
+}
+.trix-content pre[data-theme='colorful'] .se {
+  color: #666;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .sr {
+  color: #000;
+  background-color: #fff0ff;
+}
+.trix-content pre[data-theme='colorful'] .ss {
+  color: #A60;
+}
+.trix-content pre[data-theme='colorful'] .sx {
+  color: #D20;
+}
+.trix-content pre[data-theme='colorful'] .m, .trix-content pre[data-theme='colorful'] .mb, .trix-content pre[data-theme='colorful'] .mx {
+  color: #60E;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .mi, .trix-content pre[data-theme='colorful'] .il {
+  color: #00D;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .mf {
+  color: #60E;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .mh {
+  color: #058;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .mo {
+  color: #40E;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .gh {
+  color: #000080;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .gu {
+  color: #800080;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .gd {
+  color: #A00000;
+}
+.trix-content pre[data-theme='colorful'] .gi {
+  color: #00A000;
+}
+.trix-content pre[data-theme='colorful'] .gr {
+  color: #FF0000;
+}
+.trix-content pre[data-theme='colorful'] .ge {
+  font-style: italic;
+}
+.trix-content pre[data-theme='colorful'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .gp {
+  color: #c65d09;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='colorful'] .go {
+  color: #888;
+}
+.trix-content pre[data-theme='colorful'] .gt {
+  color: #04D;
+}
+.trix-content pre[data-theme='colorful'] .err {
+  color: #F00;
+  background-color: #FAA;
+}

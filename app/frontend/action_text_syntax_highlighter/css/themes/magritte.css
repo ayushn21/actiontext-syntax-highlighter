@@ -1,0 +1,171 @@
+.trix-content pre[data-theme='magritte'] table td { padding: 5px; }
+.trix-content pre[data-theme='magritte'] table pre { margin: 0; }
+.trix-content pre[data-theme='magritte'] {
+  color: #000707;
+  background-color: #f3ffff;
+}
+.trix-content pre[data-theme='magritte'] .gl {
+  color: #f3ffff;
+  background-color: #000707;
+}
+.trix-content pre[data-theme='magritte'] .c, .trix-content pre[data-theme='magritte'] .ch, .trix-content pre[data-theme='magritte'] .cd, .trix-content pre[data-theme='magritte'] .cm, .trix-content pre[data-theme='magritte'] .cpf, .trix-content pre[data-theme='magritte'] .c1, .trix-content pre[data-theme='magritte'] .cs {
+  color: #006c6c;
+  font-style: italic;
+}
+.trix-content pre[data-theme='magritte'] .cp {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .err {
+  color: #f3ffff;
+  background-color: #f22700;
+}
+.trix-content pre[data-theme='magritte'] .gr {
+  color: #f22700;
+  font-weight: bold;
+  font-style: italic;
+}
+.trix-content pre[data-theme='magritte'] .k, .trix-content pre[data-theme='magritte'] .kd, .trix-content pre[data-theme='magritte'] .kv {
+  color: #19003a;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .o, .trix-content pre[data-theme='magritte'] .ow {
+  color: #4c48fe;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .p, .trix-content pre[data-theme='magritte'] .pi {
+  color: #4c48fe;
+}
+.trix-content pre[data-theme='magritte'] .gd {
+  color: #f22700;
+}
+.trix-content pre[data-theme='magritte'] .gi {
+  color: #007500;
+}
+.trix-content pre[data-theme='magritte'] .ge {
+  font-style: italic;
+}
+.trix-content pre[data-theme='magritte'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .gt {
+  color: #000000;
+  background-color: #d8d9ff;
+}
+.trix-content pre[data-theme='magritte'] .kc {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .kn {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .kp {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .kr {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .gh {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .gu {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .kt {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .no {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nc {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nd {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nn {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .bp {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .ne {
+  color: #920241;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nl {
+  color: #840084;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nt {
+  color: #840084;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .m, .trix-content pre[data-theme='magritte'] .mb, .trix-content pre[data-theme='magritte'] .mf, .trix-content pre[data-theme='magritte'] .mh, .trix-content pre[data-theme='magritte'] .mi, .trix-content pre[data-theme='magritte'] .il, .trix-content pre[data-theme='magritte'] .mo, .trix-content pre[data-theme='magritte'] .mx {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .ld {
+  color: #007500;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .ss {
+  color: #007500;
+}
+.trix-content pre[data-theme='magritte'] .s, .trix-content pre[data-theme='magritte'] .sb, .trix-content pre[data-theme='magritte'] .dl, .trix-content pre[data-theme='magritte'] .sd, .trix-content pre[data-theme='magritte'] .s2, .trix-content pre[data-theme='magritte'] .sh, .trix-content pre[data-theme='magritte'] .sx, .trix-content pre[data-theme='magritte'] .sr, .trix-content pre[data-theme='magritte'] .s1 {
+  color: #7c0000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .sa {
+  color: #19003a;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .se {
+  color: #840084;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .sc {
+  color: #840084;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .si {
+  color: #840084;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .nb {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .ni {
+  color: #999999;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='magritte'] .w {
+  color: #BBBBBB;
+}
+.trix-content pre[data-theme='magritte'] .go {
+  color: #19003a;
+}
+.trix-content pre[data-theme='magritte'] .nf, .trix-content pre[data-theme='magritte'] .fm {
+  color: #ff0089;
+}
+.trix-content pre[data-theme='magritte'] .py {
+  color: #ff0089;
+}
+.trix-content pre[data-theme='magritte'] .na {
+  color: #ff0089;
+}
+.trix-content pre[data-theme='magritte'] .nv, .trix-content pre[data-theme='magritte'] .vc, .trix-content pre[data-theme='magritte'] .vg, .trix-content pre[data-theme='magritte'] .vi, .trix-content pre[data-theme='magritte'] .vm {
+  color: #ff0089;
+  font-weight: bold;
+}

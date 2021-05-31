@@ -1,0 +1,22 @@
+{
+  "name": "@ayushn21/actiontext-syntax-highlighter",
+  "version": "0.1.0",
+  "description": "Extends ActionText to support highlighed code blocks",
+  "main": "app/assets/javascripts/action_text_syntax_highlighter.js",
+  "files": [
+    "app/javascript/actiontext/*.js"
+  ],
+  "homepage": "https://github.com/ayushn21/actiontext-syntax-highlighter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushn21/actiontext-syntax-highlighter"
+  },
+  "bugs": {
+    "url": "https://github.com/ayushn21/actiontext-syntax-highlighter/issues"
+  },
+  "author": "Ayush Newatia",
+  "license": "MIT",
+  "peerDependencies": {
+    "@rails/actiontext": "^6.0.0"
+  },
+}

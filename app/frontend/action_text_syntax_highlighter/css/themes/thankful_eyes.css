@@ -1,0 +1,176 @@
+.trix-content pre[data-theme='thankful_eyes'] table td { padding: 5px; }
+.trix-content pre[data-theme='thankful_eyes'] table pre { margin: 0; }
+.trix-content pre[data-theme='thankful_eyes'] {
+  color: #faf6e4;
+  background-color: #122b3b;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gl {
+  color: #dee5e7;
+  background-color: #4e5d62;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gp {
+  color: #a8e1fe;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .c, .trix-content pre[data-theme='thankful_eyes'] .ch, .trix-content pre[data-theme='thankful_eyes'] .cd, .trix-content pre[data-theme='thankful_eyes'] .cm, .trix-content pre[data-theme='thankful_eyes'] .cpf, .trix-content pre[data-theme='thankful_eyes'] .c1, .trix-content pre[data-theme='thankful_eyes'] .cs {
+  color: #6c8b9f;
+  font-style: italic;
+}
+.trix-content pre[data-theme='thankful_eyes'] .cp {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .err {
+  color: #fefeec;
+  background-color: #cc0000;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gr {
+  color: #cc0000;
+  font-weight: bold;
+  font-style: italic;
+}
+.trix-content pre[data-theme='thankful_eyes'] .k, .trix-content pre[data-theme='thankful_eyes'] .kd, .trix-content pre[data-theme='thankful_eyes'] .kv {
+  color: #f6dd62;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .o, .trix-content pre[data-theme='thankful_eyes'] .ow {
+  color: #4df4ff;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .p, .trix-content pre[data-theme='thankful_eyes'] .pi {
+  color: #4df4ff;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gd {
+  color: #cc0000;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gi {
+  color: #b2fd6d;
+}
+.trix-content pre[data-theme='thankful_eyes'] .ge {
+  font-style: italic;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gt {
+  color: #dee5e7;
+  background-color: #4e5d62;
+}
+.trix-content pre[data-theme='thankful_eyes'] .kc {
+  color: #f696db;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .kn {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .kp {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .kr {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gh {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .gu {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .kt {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .no {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nc {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nd {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nn {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .bp {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .ne {
+  color: #b2fd6d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nl {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nt {
+  color: #ffb000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .m, .trix-content pre[data-theme='thankful_eyes'] .mb, .trix-content pre[data-theme='thankful_eyes'] .mf, .trix-content pre[data-theme='thankful_eyes'] .mh, .trix-content pre[data-theme='thankful_eyes'] .mi, .trix-content pre[data-theme='thankful_eyes'] .il, .trix-content pre[data-theme='thankful_eyes'] .mo, .trix-content pre[data-theme='thankful_eyes'] .mx {
+  color: #f696db;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .ld {
+  color: #f696db;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .ss {
+  color: #f696db;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .s, .trix-content pre[data-theme='thankful_eyes'] .sb, .trix-content pre[data-theme='thankful_eyes'] .dl, .trix-content pre[data-theme='thankful_eyes'] .sd, .trix-content pre[data-theme='thankful_eyes'] .s2, .trix-content pre[data-theme='thankful_eyes'] .sh, .trix-content pre[data-theme='thankful_eyes'] .sx, .trix-content pre[data-theme='thankful_eyes'] .sr, .trix-content pre[data-theme='thankful_eyes'] .s1 {
+  color: #fff0a6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .sa {
+  color: #f6dd62;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .se {
+  color: #4df4ff;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .sc {
+  color: #4df4ff;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .si {
+  color: #4df4ff;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nb {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .ni {
+  color: #999999;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='thankful_eyes'] .w {
+  color: #BBBBBB;
+}
+.trix-content pre[data-theme='thankful_eyes'] .go {
+  color: #BBBBBB;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nf, .trix-content pre[data-theme='thankful_eyes'] .fm {
+  color: #a8e1fe;
+}
+.trix-content pre[data-theme='thankful_eyes'] .py {
+  color: #a8e1fe;
+}
+.trix-content pre[data-theme='thankful_eyes'] .na {
+  color: #a8e1fe;
+}
+.trix-content pre[data-theme='thankful_eyes'] .nv, .trix-content pre[data-theme='thankful_eyes'] .vc, .trix-content pre[data-theme='thankful_eyes'] .vg, .trix-content pre[data-theme='thankful_eyes'] .vi, .trix-content pre[data-theme='thankful_eyes'] .vm {
+  color: #a8e1fe;
+  font-weight: bold;
+}

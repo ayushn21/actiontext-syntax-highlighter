@@ -1,0 +1,213 @@
+.trix-content pre[data-theme='github'] table td { padding: 5px; }
+.trix-content pre[data-theme='github'] table pre { margin: 0; }
+.trix-content pre[data-theme='github'] .cm {
+  color: #999988;
+  font-style: italic;
+}
+.trix-content pre[data-theme='github'] .cp {
+  color: #999999;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .c1 {
+  color: #999988;
+  font-style: italic;
+}
+.trix-content pre[data-theme='github'] .cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+}
+.trix-content pre[data-theme='github'] .c, .trix-content pre[data-theme='github'] .ch, .trix-content pre[data-theme='github'] .cd, .trix-content pre[data-theme='github'] .cpf {
+  color: #999988;
+  font-style: italic;
+}
+.trix-content pre[data-theme='github'] .err {
+  color: #a61717;
+  background-color: #e3d2d2;
+}
+.trix-content pre[data-theme='github'] .gd {
+  color: #000000;
+  background-color: #ffdddd;
+}
+.trix-content pre[data-theme='github'] .ge {
+  color: #000000;
+  font-style: italic;
+}
+.trix-content pre[data-theme='github'] .gr {
+  color: #aa0000;
+}
+.trix-content pre[data-theme='github'] .gh {
+  color: #999999;
+}
+.trix-content pre[data-theme='github'] .gi {
+  color: #000000;
+  background-color: #ddffdd;
+}
+.trix-content pre[data-theme='github'] .go {
+  color: #888888;
+}
+.trix-content pre[data-theme='github'] .gp {
+  color: #555555;
+}
+.trix-content pre[data-theme='github'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .gu {
+  color: #aaaaaa;
+}
+.trix-content pre[data-theme='github'] .gt {
+  color: #aa0000;
+}
+.trix-content pre[data-theme='github'] .kc {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .kd {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .kn {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .kp {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .kr {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .kt {
+  color: #445588;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .k, .trix-content pre[data-theme='github'] .kv {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .mf {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .mh {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .il {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .mi {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .mo {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .m, .trix-content pre[data-theme='github'] .mb, .trix-content pre[data-theme='github'] .mx {
+  color: #009999;
+}
+.trix-content pre[data-theme='github'] .sa {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .sb {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .sc {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .sd {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .s2 {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .se {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .sh {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .si {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .sx {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .sr {
+  color: #009926;
+}
+.trix-content pre[data-theme='github'] .s1 {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .ss {
+  color: #990073;
+}
+.trix-content pre[data-theme='github'] .s, .trix-content pre[data-theme='github'] .dl {
+  color: #d14;
+}
+.trix-content pre[data-theme='github'] .na {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .bp {
+  color: #999999;
+}
+.trix-content pre[data-theme='github'] .nb {
+  color: #0086B3;
+}
+.trix-content pre[data-theme='github'] .nc {
+  color: #445588;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .no {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .nd {
+  color: #3c5d5d;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .ni {
+  color: #800080;
+}
+.trix-content pre[data-theme='github'] .ne {
+  color: #990000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .nf, .trix-content pre[data-theme='github'] .fm {
+  color: #990000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .nl {
+  color: #990000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .nn {
+  color: #555555;
+}
+.trix-content pre[data-theme='github'] .nt {
+  color: #000080;
+}
+.trix-content pre[data-theme='github'] .vc {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .vg {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .vi {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .nv, .trix-content pre[data-theme='github'] .vm {
+  color: #008080;
+}
+.trix-content pre[data-theme='github'] .ow {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .o {
+  color: #000000;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='github'] .w {
+  color: #bbbbbb;
+}
+.trix-content pre[data-theme='github'] {
+  background-color: #f8f8f8;
+}

@@ -1,0 +1,87 @@
+.trix-content pre[data-theme='gruvbox.light'] table td { padding: 5px; }
+.trix-content pre[data-theme='gruvbox.light'] table pre { margin: 0; }
+.trix-content pre[data-theme='gruvbox.light'], .trix-content pre[data-theme='gruvbox.light'] .w {
+  color: #282828;
+  background-color: #fbf1c7;
+}
+.trix-content pre[data-theme='gruvbox.light'] .err {
+  color: #9d0006;
+  background-color: #fbf1c7;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='gruvbox.light'] .c, .trix-content pre[data-theme='gruvbox.light'] .ch, .trix-content pre[data-theme='gruvbox.light'] .cd, .trix-content pre[data-theme='gruvbox.light'] .cm, .trix-content pre[data-theme='gruvbox.light'] .cpf, .trix-content pre[data-theme='gruvbox.light'] .c1, .trix-content pre[data-theme='gruvbox.light'] .cs {
+  color: #928374;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.light'] .cp {
+  color: #427b58;
+}
+.trix-content pre[data-theme='gruvbox.light'] .nt {
+  color: #9d0006;
+}
+.trix-content pre[data-theme='gruvbox.light'] .o, .trix-content pre[data-theme='gruvbox.light'] .ow {
+  color: #282828;
+}
+.trix-content pre[data-theme='gruvbox.light'] .p, .trix-content pre[data-theme='gruvbox.light'] .pi {
+  color: #282828;
+}
+.trix-content pre[data-theme='gruvbox.light'] .gi {
+  color: #79740e;
+  background-color: #fbf1c7;
+}
+.trix-content pre[data-theme='gruvbox.light'] .gd {
+  color: #9d0006;
+  background-color: #fbf1c7;
+}
+.trix-content pre[data-theme='gruvbox.light'] .gh {
+  color: #79740e;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='gruvbox.light'] .k, .trix-content pre[data-theme='gruvbox.light'] .kn, .trix-content pre[data-theme='gruvbox.light'] .kp, .trix-content pre[data-theme='gruvbox.light'] .kr, .trix-content pre[data-theme='gruvbox.light'] .kv {
+  color: #9d0006;
+}
+.trix-content pre[data-theme='gruvbox.light'] .kc {
+  color: #8f3f71;
+}
+.trix-content pre[data-theme='gruvbox.light'] .kt {
+  color: #b57614;
+}
+.trix-content pre[data-theme='gruvbox.light'] .kd {
+  color: #af3a03;
+}
+.trix-content pre[data-theme='gruvbox.light'] .s, .trix-content pre[data-theme='gruvbox.light'] .sb, .trix-content pre[data-theme='gruvbox.light'] .sc, .trix-content pre[data-theme='gruvbox.light'] .dl, .trix-content pre[data-theme='gruvbox.light'] .sd, .trix-content pre[data-theme='gruvbox.light'] .s2, .trix-content pre[data-theme='gruvbox.light'] .sh, .trix-content pre[data-theme='gruvbox.light'] .sx, .trix-content pre[data-theme='gruvbox.light'] .s1 {
+  color: #79740e;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.light'] .si {
+  color: #79740e;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.light'] .sr {
+  color: #79740e;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.light'] .sa {
+  color: #9d0006;
+}
+.trix-content pre[data-theme='gruvbox.light'] .se {
+  color: #af3a03;
+}
+.trix-content pre[data-theme='gruvbox.light'] .nn {
+  color: #427b58;
+}
+.trix-content pre[data-theme='gruvbox.light'] .nc {
+  color: #427b58;
+}
+.trix-content pre[data-theme='gruvbox.light'] .no {
+  color: #8f3f71;
+}
+.trix-content pre[data-theme='gruvbox.light'] .na {
+  color: #79740e;
+}
+.trix-content pre[data-theme='gruvbox.light'] .m, .trix-content pre[data-theme='gruvbox.light'] .mb, .trix-content pre[data-theme='gruvbox.light'] .mf, .trix-content pre[data-theme='gruvbox.light'] .mh, .trix-content pre[data-theme='gruvbox.light'] .mi, .trix-content pre[data-theme='gruvbox.light'] .il, .trix-content pre[data-theme='gruvbox.light'] .mo, .trix-content pre[data-theme='gruvbox.light'] .mx {
+  color: #8f3f71;
+}
+.trix-content pre[data-theme='gruvbox.light'] .ss {
+  color: #076678;
+}

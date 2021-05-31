@@ -1,0 +1,5 @@
+require "action_text_syntax_highlighter/version"
+require "action_text_syntax_highlighter/engine"
+
+module ActionTextSyntaxHighlighter
+end

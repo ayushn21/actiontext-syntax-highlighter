@@ -1,0 +1,198 @@
+.trix-content pre[data-theme='monokai.sublime'] table td { padding: 5px; }
+.trix-content pre[data-theme='monokai.sublime'] table pre { margin: 0; }
+.trix-content pre[data-theme='monokai.sublime'] .gh {
+  color: #999999;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sr {
+  color: #f6aa11;
+}
+.trix-content pre[data-theme='monokai.sublime'] .go {
+  color: #888888;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gp {
+  color: #555555;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gs {
+}
+.trix-content pre[data-theme='monokai.sublime'] .gu {
+  color: #aaaaaa;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nb {
+  color: #f6aa11;
+}
+.trix-content pre[data-theme='monokai.sublime'] .cm {
+  color: #75715e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .cp {
+  color: #75715e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .c1 {
+  color: #75715e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .cs {
+  color: #75715e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .c, .trix-content pre[data-theme='monokai.sublime'] .ch, .trix-content pre[data-theme='monokai.sublime'] .cd, .trix-content pre[data-theme='monokai.sublime'] .cpf {
+  color: #75715e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .err {
+  color: #960050;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gr {
+  color: #960050;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gt {
+  color: #960050;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gd {
+  color: #49483e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .gi {
+  color: #49483e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .ge {
+  color: #49483e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kc {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kd {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kr {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='monokai.sublime'] .no {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kt {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='monokai.sublime'] .mf {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .mh {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .il {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .mi {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .mo {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .m, .trix-content pre[data-theme='monokai.sublime'] .mb, .trix-content pre[data-theme='monokai.sublime'] .mx {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sc {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .se {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .ss {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sd {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .s2 {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sb {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sh {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .si {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .sx {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .s1 {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .s, .trix-content pre[data-theme='monokai.sublime'] .sa, .trix-content pre[data-theme='monokai.sublime'] .dl {
+  color: #e6db74;
+}
+.trix-content pre[data-theme='monokai.sublime'] .na {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nc {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nd {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .ne {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nf, .trix-content pre[data-theme='monokai.sublime'] .fm {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='monokai.sublime'] .vc {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nn {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nl {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .ni {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .bp {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .vg {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .vi {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nv, .trix-content pre[data-theme='monokai.sublime'] .vm {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .w {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .n, .trix-content pre[data-theme='monokai.sublime'] .py, .trix-content pre[data-theme='monokai.sublime'] .nx {
+  color: #ffffff;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='monokai.sublime'] .ow {
+  color: #f92672;
+}
+.trix-content pre[data-theme='monokai.sublime'] .nt {
+  color: #f92672;
+}
+.trix-content pre[data-theme='monokai.sublime'] .k, .trix-content pre[data-theme='monokai.sublime'] .kv {
+  color: #f92672;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kn {
+  color: #f92672;
+}
+.trix-content pre[data-theme='monokai.sublime'] .kp {
+  color: #f92672;
+}
+.trix-content pre[data-theme='monokai.sublime'] .o {
+  color: #f92672;
+}

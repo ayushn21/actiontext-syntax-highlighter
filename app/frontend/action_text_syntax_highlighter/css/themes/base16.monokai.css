@@ -1,0 +1,81 @@
+.trix-content pre[data-theme='base16.monokai'] table td { padding: 5px; }
+.trix-content pre[data-theme='base16.monokai'] table pre { margin: 0; }
+.trix-content pre[data-theme='base16.monokai'], .trix-content pre[data-theme='base16.monokai'] .w {
+  color: #f8f8f2;
+  background-color: #272822;
+}
+.trix-content pre[data-theme='base16.monokai'] .err {
+  color: #272822;
+  background-color: #f92672;
+}
+.trix-content pre[data-theme='base16.monokai'] .c, .trix-content pre[data-theme='base16.monokai'] .ch, .trix-content pre[data-theme='base16.monokai'] .cd, .trix-content pre[data-theme='base16.monokai'] .cm, .trix-content pre[data-theme='base16.monokai'] .cpf, .trix-content pre[data-theme='base16.monokai'] .c1, .trix-content pre[data-theme='base16.monokai'] .cs {
+  color: #75715e;
+}
+.trix-content pre[data-theme='base16.monokai'] .cp {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.monokai'] .nt {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.monokai'] .o, .trix-content pre[data-theme='base16.monokai'] .ow {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='base16.monokai'] .p, .trix-content pre[data-theme='base16.monokai'] .pi {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='base16.monokai'] .gi {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='base16.monokai'] .gd {
+  color: #f92672;
+}
+.trix-content pre[data-theme='base16.monokai'] .gh {
+  color: #66d9ef;
+  background-color: #272822;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='base16.monokai'] .k, .trix-content pre[data-theme='base16.monokai'] .kn, .trix-content pre[data-theme='base16.monokai'] .kp, .trix-content pre[data-theme='base16.monokai'] .kr, .trix-content pre[data-theme='base16.monokai'] .kv {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='base16.monokai'] .kc {
+  color: #fd971f;
+}
+.trix-content pre[data-theme='base16.monokai'] .kt {
+  color: #fd971f;
+}
+.trix-content pre[data-theme='base16.monokai'] .kd {
+  color: #fd971f;
+}
+.trix-content pre[data-theme='base16.monokai'] .s, .trix-content pre[data-theme='base16.monokai'] .sb, .trix-content pre[data-theme='base16.monokai'] .sc, .trix-content pre[data-theme='base16.monokai'] .dl, .trix-content pre[data-theme='base16.monokai'] .sd, .trix-content pre[data-theme='base16.monokai'] .s2, .trix-content pre[data-theme='base16.monokai'] .sh, .trix-content pre[data-theme='base16.monokai'] .sx, .trix-content pre[data-theme='base16.monokai'] .s1 {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='base16.monokai'] .sa {
+  color: #ae81ff;
+}
+.trix-content pre[data-theme='base16.monokai'] .sr {
+  color: #a1efe4;
+}
+.trix-content pre[data-theme='base16.monokai'] .si {
+  color: #cc6633;
+}
+.trix-content pre[data-theme='base16.monokai'] .se {
+  color: #cc6633;
+}
+.trix-content pre[data-theme='base16.monokai'] .nn {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.monokai'] .nc {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.monokai'] .no {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.monokai'] .na {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='base16.monokai'] .m, .trix-content pre[data-theme='base16.monokai'] .mb, .trix-content pre[data-theme='base16.monokai'] .mf, .trix-content pre[data-theme='base16.monokai'] .mh, .trix-content pre[data-theme='base16.monokai'] .mi, .trix-content pre[data-theme='base16.monokai'] .il, .trix-content pre[data-theme='base16.monokai'] .mo, .trix-content pre[data-theme='base16.monokai'] .mx {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='base16.monokai'] .ss {
+  color: #a6e22e;
+}

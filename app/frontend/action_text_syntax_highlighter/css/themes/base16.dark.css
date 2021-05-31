@@ -1,0 +1,81 @@
+.trix-content pre[data-theme='base16.dark'] table td { padding: 5px; }
+.trix-content pre[data-theme='base16.dark'] table pre { margin: 0; }
+.trix-content pre[data-theme='base16.dark'], .trix-content pre[data-theme='base16.dark'] .w {
+  color: #d0d0d0;
+  background-color: #151515;
+}
+.trix-content pre[data-theme='base16.dark'] .err {
+  color: #151515;
+  background-color: #ac4142;
+}
+.trix-content pre[data-theme='base16.dark'] .c, .trix-content pre[data-theme='base16.dark'] .ch, .trix-content pre[data-theme='base16.dark'] .cd, .trix-content pre[data-theme='base16.dark'] .cm, .trix-content pre[data-theme='base16.dark'] .cpf, .trix-content pre[data-theme='base16.dark'] .c1, .trix-content pre[data-theme='base16.dark'] .cs {
+  color: #505050;
+}
+.trix-content pre[data-theme='base16.dark'] .cp {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.dark'] .nt {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.dark'] .o, .trix-content pre[data-theme='base16.dark'] .ow {
+  color: #d0d0d0;
+}
+.trix-content pre[data-theme='base16.dark'] .p, .trix-content pre[data-theme='base16.dark'] .pi {
+  color: #d0d0d0;
+}
+.trix-content pre[data-theme='base16.dark'] .gi {
+  color: #90a959;
+}
+.trix-content pre[data-theme='base16.dark'] .gd {
+  color: #ac4142;
+}
+.trix-content pre[data-theme='base16.dark'] .gh {
+  color: #6a9fb5;
+  background-color: #151515;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='base16.dark'] .k, .trix-content pre[data-theme='base16.dark'] .kn, .trix-content pre[data-theme='base16.dark'] .kp, .trix-content pre[data-theme='base16.dark'] .kr, .trix-content pre[data-theme='base16.dark'] .kv {
+  color: #aa759f;
+}
+.trix-content pre[data-theme='base16.dark'] .kc {
+  color: #d28445;
+}
+.trix-content pre[data-theme='base16.dark'] .kt {
+  color: #d28445;
+}
+.trix-content pre[data-theme='base16.dark'] .kd {
+  color: #d28445;
+}
+.trix-content pre[data-theme='base16.dark'] .s, .trix-content pre[data-theme='base16.dark'] .sb, .trix-content pre[data-theme='base16.dark'] .sc, .trix-content pre[data-theme='base16.dark'] .dl, .trix-content pre[data-theme='base16.dark'] .sd, .trix-content pre[data-theme='base16.dark'] .s2, .trix-content pre[data-theme='base16.dark'] .sh, .trix-content pre[data-theme='base16.dark'] .sx, .trix-content pre[data-theme='base16.dark'] .s1 {
+  color: #90a959;
+}
+.trix-content pre[data-theme='base16.dark'] .sa {
+  color: #aa759f;
+}
+.trix-content pre[data-theme='base16.dark'] .sr {
+  color: #75b5aa;
+}
+.trix-content pre[data-theme='base16.dark'] .si {
+  color: #8f5536;
+}
+.trix-content pre[data-theme='base16.dark'] .se {
+  color: #8f5536;
+}
+.trix-content pre[data-theme='base16.dark'] .nn {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.dark'] .nc {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.dark'] .no {
+  color: #f4bf75;
+}
+.trix-content pre[data-theme='base16.dark'] .na {
+  color: #6a9fb5;
+}
+.trix-content pre[data-theme='base16.dark'] .m, .trix-content pre[data-theme='base16.dark'] .mb, .trix-content pre[data-theme='base16.dark'] .mf, .trix-content pre[data-theme='base16.dark'] .mh, .trix-content pre[data-theme='base16.dark'] .mi, .trix-content pre[data-theme='base16.dark'] .il, .trix-content pre[data-theme='base16.dark'] .mo, .trix-content pre[data-theme='base16.dark'] .mx {
+  color: #90a959;
+}
+.trix-content pre[data-theme='base16.dark'] .ss {
+  color: #90a959;
+}

@@ -1,0 +1,8 @@
+<highlighted-code-block>
+  <%= select_tag :language,
+        options_for_select(
+          ActionTextSyntaxHighlighter::HighlightedCodeBlock.supported_languages,
+          highlighted_code_block.language
+        ) %>
+  <pre contenteditable=""><%= highlighted_code_block.content %></pre>
+</highlighted-code-block>

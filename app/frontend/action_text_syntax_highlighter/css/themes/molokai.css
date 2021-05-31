@@ -1,0 +1,208 @@
+.trix-content pre[data-theme='molokai'] table td { padding: 5px; }
+.trix-content pre[data-theme='molokai'] table pre { margin: 0; }
+.trix-content pre[data-theme='molokai'] .c, .trix-content pre[data-theme='molokai'] .ch, .trix-content pre[data-theme='molokai'] .cd, .trix-content pre[data-theme='molokai'] .cpf {
+  color: #5e5d83;
+  font-style: italic;
+}
+.trix-content pre[data-theme='molokai'] .cm {
+  color: #5e5d83;
+  font-style: italic;
+}
+.trix-content pre[data-theme='molokai'] .c1 {
+  color: #5e5d83;
+  font-style: italic;
+}
+.trix-content pre[data-theme='molokai'] .cp {
+  color: #465457;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .cs {
+  color: #465457;
+  font-weight: bold;
+  font-style: italic;
+}
+.trix-content pre[data-theme='molokai'] .err {
+  color: #f8f8f2;
+  background-color: #403d3d;
+}
+.trix-content pre[data-theme='molokai'] .gi {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='molokai'] .gd {
+  color: #f92672;
+}
+.trix-content pre[data-theme='molokai'] .ge {
+  color: #1b1d1e;
+  font-style: italic;
+}
+.trix-content pre[data-theme='molokai'] .gr {
+  color: #f92672;
+}
+.trix-content pre[data-theme='molokai'] .gt {
+  color: #f92672;
+}
+.trix-content pre[data-theme='molokai'] .gh {
+  color: #403d3d;
+}
+.trix-content pre[data-theme='molokai'] .go {
+  color: #403d3d;
+}
+.trix-content pre[data-theme='molokai'] .gp {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='molokai'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .gu {
+  color: #465457;
+}
+.trix-content pre[data-theme='molokai'] .k, .trix-content pre[data-theme='molokai'] .kv {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kc {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kd {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kp {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kr {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kt {
+  color: #66d9ef;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .kn {
+  color: #f92672;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .ow {
+  color: #f92672;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .o {
+  color: #f92672;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .mf {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .mh {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .il {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .mi {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .mo {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .m, .trix-content pre[data-theme='molokai'] .mb, .trix-content pre[data-theme='molokai'] .mx {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .se {
+  color: #af87ff;
+}
+.trix-content pre[data-theme='molokai'] .sb {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .sc {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .sd {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .s2 {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .sh {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .si {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .sx {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .sr {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .s1 {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .ss {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .s, .trix-content pre[data-theme='molokai'] .sa, .trix-content pre[data-theme='molokai'] .dl {
+  color: #d7d787;
+}
+.trix-content pre[data-theme='molokai'] .na {
+  color: #a6e22e;
+}
+.trix-content pre[data-theme='molokai'] .nc {
+  color: #a6e22e;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .nd {
+  color: #a6e22e;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .ne {
+  color: #a6e22e;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .nf, .trix-content pre[data-theme='molokai'] .fm {
+  color: #a6e22e;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .no {
+  color: #66d9ef;
+}
+.trix-content pre[data-theme='molokai'] .bp {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .nb {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .ni {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .nn {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .vc {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .vg {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .vi {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .nv, .trix-content pre[data-theme='molokai'] .vm {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .w {
+  color: #f8f8f2;
+}
+.trix-content pre[data-theme='molokai'] .nl {
+  color: #f8f8f2;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='molokai'] .nt {
+  color: #f92672;
+}
+.trix-content pre[data-theme='molokai'] {
+  color: #f8f8f2;
+  background-color: #1b1d1e;
+}

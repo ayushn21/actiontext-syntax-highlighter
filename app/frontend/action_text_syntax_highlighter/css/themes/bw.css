@@ -1,0 +1,66 @@
+.trix-content pre[data-theme='bw'] table td { padding: 5px; }
+.trix-content pre[data-theme='bw'] table pre { margin: 0; }
+.trix-content pre[data-theme='bw'], .trix-content pre[data-theme='bw'] .w {
+  color: #000000;
+  background-color: #ffffff;
+}
+.trix-content pre[data-theme='bw'] .c, .trix-content pre[data-theme='bw'] .ch, .trix-content pre[data-theme='bw'] .cd, .trix-content pre[data-theme='bw'] .cm, .trix-content pre[data-theme='bw'] .cpf, .trix-content pre[data-theme='bw'] .c1, .trix-content pre[data-theme='bw'] .cs {
+  font-style: italic;
+}
+.trix-content pre[data-theme='bw'] .cp {
+}
+.trix-content pre[data-theme='bw'] .k, .trix-content pre[data-theme='bw'] .kc, .trix-content pre[data-theme='bw'] .kd, .trix-content pre[data-theme='bw'] .kn, .trix-content pre[data-theme='bw'] .kr, .trix-content pre[data-theme='bw'] .kv {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .kp {
+}
+.trix-content pre[data-theme='bw'] .kt {
+}
+.trix-content pre[data-theme='bw'] .o, .trix-content pre[data-theme='bw'] .ow {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .nc {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .nn {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .ne {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .ni {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .nt {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .s, .trix-content pre[data-theme='bw'] .sb, .trix-content pre[data-theme='bw'] .sc, .trix-content pre[data-theme='bw'] .dl, .trix-content pre[data-theme='bw'] .sd, .trix-content pre[data-theme='bw'] .s2, .trix-content pre[data-theme='bw'] .sh, .trix-content pre[data-theme='bw'] .sx, .trix-content pre[data-theme='bw'] .sr, .trix-content pre[data-theme='bw'] .s1, .trix-content pre[data-theme='bw'] .ss {
+  font-style: italic;
+}
+.trix-content pre[data-theme='bw'] .sa {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .si {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .se {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .gh {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .gu {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .ge {
+  font-style: italic;
+}
+.trix-content pre[data-theme='bw'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .gp {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='bw'] .err {
+  color: #FF0000;
+}

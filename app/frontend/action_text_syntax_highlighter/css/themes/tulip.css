@@ -1,0 +1,167 @@
+.trix-content pre[data-theme='tulip'] table td { padding: 5px; }
+.trix-content pre[data-theme='tulip'] table pre { margin: 0; }
+.trix-content pre[data-theme='tulip'] {
+  color: #FFFFFF;
+  background-color: #231529;
+}
+.trix-content pre[data-theme='tulip'] .c, .trix-content pre[data-theme='tulip'] .ch, .trix-content pre[data-theme='tulip'] .cd, .trix-content pre[data-theme='tulip'] .cm, .trix-content pre[data-theme='tulip'] .cpf, .trix-content pre[data-theme='tulip'] .c1, .trix-content pre[data-theme='tulip'] .cs {
+  color: #6D6E70;
+  font-style: italic;
+}
+.trix-content pre[data-theme='tulip'] .cp {
+  color: #41ff5b;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .err {
+  color: #FFFFFF;
+  background-color: #CC0000;
+}
+.trix-content pre[data-theme='tulip'] .gr {
+  color: #FFFFFF;
+  background-color: #CC0000;
+}
+.trix-content pre[data-theme='tulip'] .k, .trix-content pre[data-theme='tulip'] .kd, .trix-content pre[data-theme='tulip'] .kv {
+  color: #FFF02A;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .o, .trix-content pre[data-theme='tulip'] .ow {
+  color: #41ff5b;
+}
+.trix-content pre[data-theme='tulip'] .p, .trix-content pre[data-theme='tulip'] .pi {
+  color: #41ff5b;
+}
+.trix-content pre[data-theme='tulip'] .gd {
+  color: #CC0000;
+}
+.trix-content pre[data-theme='tulip'] .gi {
+  color: #3FB34F;
+}
+.trix-content pre[data-theme='tulip'] .ge {
+  font-style: italic;
+}
+.trix-content pre[data-theme='tulip'] .gs {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .gt {
+  color: #FFFFFF;
+  background-color: #766DAF;
+}
+.trix-content pre[data-theme='tulip'] .gl {
+  color: #FFFFFF;
+  background-color: #766DAF;
+}
+.trix-content pre[data-theme='tulip'] .kc {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .kn {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .kp {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .kr {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .gh {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .gu {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .kt {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .no {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nc {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nd {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nn {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .bp {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .ne {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nl {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nt {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .m, .trix-content pre[data-theme='tulip'] .mb, .trix-content pre[data-theme='tulip'] .mf, .trix-content pre[data-theme='tulip'] .mh, .trix-content pre[data-theme='tulip'] .mi, .trix-content pre[data-theme='tulip'] .il, .trix-content pre[data-theme='tulip'] .mo, .trix-content pre[data-theme='tulip'] .mx {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .ld {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .ss {
+  color: #9f93e6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .s, .trix-content pre[data-theme='tulip'] .sb, .trix-content pre[data-theme='tulip'] .dl, .trix-content pre[data-theme='tulip'] .sd, .trix-content pre[data-theme='tulip'] .s2, .trix-content pre[data-theme='tulip'] .sh, .trix-content pre[data-theme='tulip'] .sx, .trix-content pre[data-theme='tulip'] .sr, .trix-content pre[data-theme='tulip'] .s1 {
+  color: #fff0a6;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .sa {
+  color: #FFF02A;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .se {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .sc {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .si {
+  color: #FAAF4C;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .nb {
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .ni {
+  color: #999999;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='tulip'] .w {
+  color: #BBBBBB;
+}
+.trix-content pre[data-theme='tulip'] .nf, .trix-content pre[data-theme='tulip'] .fm {
+  color: #41ff5b;
+}
+.trix-content pre[data-theme='tulip'] .py {
+  color: #41ff5b;
+}
+.trix-content pre[data-theme='tulip'] .na {
+  color: #41ff5b;
+}
+.trix-content pre[data-theme='tulip'] .nv, .trix-content pre[data-theme='tulip'] .vc, .trix-content pre[data-theme='tulip'] .vg, .trix-content pre[data-theme='tulip'] .vi, .trix-content pre[data-theme='tulip'] .vm {
+  color: #41ff5b;
+  font-weight: bold;
+}

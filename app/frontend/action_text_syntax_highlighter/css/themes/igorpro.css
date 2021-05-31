@@ -1,0 +1,35 @@
+.trix-content pre[data-theme='igorpro'] table td { padding: 5px; }
+.trix-content pre[data-theme='igorpro'] table pre { margin: 0; }
+.trix-content pre[data-theme='igorpro'], .trix-content pre[data-theme='igorpro'] .w {
+  color: #444444;
+}
+.trix-content pre[data-theme='igorpro'] .cp {
+  color: #CC00A3;
+}
+.trix-content pre[data-theme='igorpro'] .cs {
+  color: #CC00A3;
+}
+.trix-content pre[data-theme='igorpro'] .c, .trix-content pre[data-theme='igorpro'] .ch, .trix-content pre[data-theme='igorpro'] .cd, .trix-content pre[data-theme='igorpro'] .cm, .trix-content pre[data-theme='igorpro'] .cpf, .trix-content pre[data-theme='igorpro'] .c1 {
+  color: #FF0000;
+}
+.trix-content pre[data-theme='igorpro'] .kc {
+  color: #C34E00;
+}
+.trix-content pre[data-theme='igorpro'] .kd {
+  color: #0000FF;
+}
+.trix-content pre[data-theme='igorpro'] .kr {
+  color: #007575;
+}
+.trix-content pre[data-theme='igorpro'] .k, .trix-content pre[data-theme='igorpro'] .kn, .trix-content pre[data-theme='igorpro'] .kp, .trix-content pre[data-theme='igorpro'] .kt, .trix-content pre[data-theme='igorpro'] .kv {
+  color: #0000FF;
+}
+.trix-content pre[data-theme='igorpro'] .s, .trix-content pre[data-theme='igorpro'] .sb, .trix-content pre[data-theme='igorpro'] .sc, .trix-content pre[data-theme='igorpro'] .dl, .trix-content pre[data-theme='igorpro'] .sd, .trix-content pre[data-theme='igorpro'] .s2, .trix-content pre[data-theme='igorpro'] .se, .trix-content pre[data-theme='igorpro'] .sh, .trix-content pre[data-theme='igorpro'] .si, .trix-content pre[data-theme='igorpro'] .sx, .trix-content pre[data-theme='igorpro'] .sr, .trix-content pre[data-theme='igorpro'] .s1, .trix-content pre[data-theme='igorpro'] .ss {
+  color: #009C00;
+}
+.trix-content pre[data-theme='igorpro'] .sa {
+  color: #0000FF;
+}
+.trix-content pre[data-theme='igorpro'] .nb, .trix-content pre[data-theme='igorpro'] .bp {
+  color: #C34E00;
+}

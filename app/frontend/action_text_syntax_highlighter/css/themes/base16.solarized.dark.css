@@ -1,0 +1,81 @@
+.trix-content pre[data-theme='base16.solarized.dark'] table td { padding: 5px; }
+.trix-content pre[data-theme='base16.solarized.dark'] table pre { margin: 0; }
+.trix-content pre[data-theme='base16.solarized.dark'], .trix-content pre[data-theme='base16.solarized.dark'] .w {
+  color: #93a1a1;
+  background-color: #002b36;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .err {
+  color: #002b36;
+  background-color: #dc322f;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .c, .trix-content pre[data-theme='base16.solarized.dark'] .ch, .trix-content pre[data-theme='base16.solarized.dark'] .cd, .trix-content pre[data-theme='base16.solarized.dark'] .cm, .trix-content pre[data-theme='base16.solarized.dark'] .cpf, .trix-content pre[data-theme='base16.solarized.dark'] .c1, .trix-content pre[data-theme='base16.solarized.dark'] .cs {
+  color: #657b83;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .cp {
+  color: #b58900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .nt {
+  color: #b58900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .o, .trix-content pre[data-theme='base16.solarized.dark'] .ow {
+  color: #93a1a1;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .p, .trix-content pre[data-theme='base16.solarized.dark'] .pi {
+  color: #93a1a1;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .gi {
+  color: #859900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .gd {
+  color: #dc322f;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .gh {
+  color: #268bd2;
+  background-color: #002b36;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .k, .trix-content pre[data-theme='base16.solarized.dark'] .kn, .trix-content pre[data-theme='base16.solarized.dark'] .kp, .trix-content pre[data-theme='base16.solarized.dark'] .kr, .trix-content pre[data-theme='base16.solarized.dark'] .kv {
+  color: #6c71c4;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .kc {
+  color: #cb4b16;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .kt {
+  color: #cb4b16;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .kd {
+  color: #cb4b16;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .s, .trix-content pre[data-theme='base16.solarized.dark'] .sb, .trix-content pre[data-theme='base16.solarized.dark'] .sc, .trix-content pre[data-theme='base16.solarized.dark'] .dl, .trix-content pre[data-theme='base16.solarized.dark'] .sd, .trix-content pre[data-theme='base16.solarized.dark'] .s2, .trix-content pre[data-theme='base16.solarized.dark'] .sh, .trix-content pre[data-theme='base16.solarized.dark'] .sx, .trix-content pre[data-theme='base16.solarized.dark'] .s1 {
+  color: #859900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .sa {
+  color: #6c71c4;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .sr {
+  color: #2aa198;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .si {
+  color: #d33682;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .se {
+  color: #d33682;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .nn {
+  color: #b58900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .nc {
+  color: #b58900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .no {
+  color: #b58900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .na {
+  color: #268bd2;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .m, .trix-content pre[data-theme='base16.solarized.dark'] .mb, .trix-content pre[data-theme='base16.solarized.dark'] .mf, .trix-content pre[data-theme='base16.solarized.dark'] .mh, .trix-content pre[data-theme='base16.solarized.dark'] .mi, .trix-content pre[data-theme='base16.solarized.dark'] .il, .trix-content pre[data-theme='base16.solarized.dark'] .mo, .trix-content pre[data-theme='base16.solarized.dark'] .mx {
+  color: #859900;
+}
+.trix-content pre[data-theme='base16.solarized.dark'] .ss {
+  color: #859900;
+}

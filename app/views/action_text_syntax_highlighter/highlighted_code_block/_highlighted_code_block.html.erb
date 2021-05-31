@@ -1,0 +1,4 @@
+<% @highlighted_code_block_theme ||= highlighted_code_block.attachable.default_theme %>
+<%= tag.pre highlighted_code_block.highlighted_content, data: {
+      theme: @highlighted_code_block_theme
+    } %>

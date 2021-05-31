@@ -1,0 +1,87 @@
+.trix-content pre[data-theme='gruvbox.dark'] table td { padding: 5px; }
+.trix-content pre[data-theme='gruvbox.dark'] table pre { margin: 0; }
+.trix-content pre[data-theme='gruvbox.dark'], .trix-content pre[data-theme='gruvbox.dark'] .w {
+  color: #fbf1c7;
+  background-color: #282828;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .err {
+  color: #fb4934;
+  background-color: #282828;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .c, .trix-content pre[data-theme='gruvbox.dark'] .ch, .trix-content pre[data-theme='gruvbox.dark'] .cd, .trix-content pre[data-theme='gruvbox.dark'] .cm, .trix-content pre[data-theme='gruvbox.dark'] .cpf, .trix-content pre[data-theme='gruvbox.dark'] .c1, .trix-content pre[data-theme='gruvbox.dark'] .cs {
+  color: #928374;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .cp {
+  color: #8ec07c;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .nt {
+  color: #fb4934;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .o, .trix-content pre[data-theme='gruvbox.dark'] .ow {
+  color: #fbf1c7;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .p, .trix-content pre[data-theme='gruvbox.dark'] .pi {
+  color: #fbf1c7;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .gi {
+  color: #b8bb26;
+  background-color: #282828;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .gd {
+  color: #fb4934;
+  background-color: #282828;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .gh {
+  color: #b8bb26;
+  font-weight: bold;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .k, .trix-content pre[data-theme='gruvbox.dark'] .kn, .trix-content pre[data-theme='gruvbox.dark'] .kp, .trix-content pre[data-theme='gruvbox.dark'] .kr, .trix-content pre[data-theme='gruvbox.dark'] .kv {
+  color: #fb4934;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .kc {
+  color: #d3869b;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .kt {
+  color: #fabd2f;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .kd {
+  color: #fe8019;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .s, .trix-content pre[data-theme='gruvbox.dark'] .sb, .trix-content pre[data-theme='gruvbox.dark'] .sc, .trix-content pre[data-theme='gruvbox.dark'] .dl, .trix-content pre[data-theme='gruvbox.dark'] .sd, .trix-content pre[data-theme='gruvbox.dark'] .s2, .trix-content pre[data-theme='gruvbox.dark'] .sh, .trix-content pre[data-theme='gruvbox.dark'] .sx, .trix-content pre[data-theme='gruvbox.dark'] .s1 {
+  color: #b8bb26;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .si {
+  color: #b8bb26;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .sr {
+  color: #b8bb26;
+  font-style: italic;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .sa {
+  color: #fb4934;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .se {
+  color: #fe8019;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .nn {
+  color: #8ec07c;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .nc {
+  color: #8ec07c;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .no {
+  color: #d3869b;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .na {
+  color: #b8bb26;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .m, .trix-content pre[data-theme='gruvbox.dark'] .mb, .trix-content pre[data-theme='gruvbox.dark'] .mf, .trix-content pre[data-theme='gruvbox.dark'] .mh, .trix-content pre[data-theme='gruvbox.dark'] .mi, .trix-content pre[data-theme='gruvbox.dark'] .il, .trix-content pre[data-theme='gruvbox.dark'] .mo, .trix-content pre[data-theme='gruvbox.dark'] .mx {
+  color: #d3869b;
+}
+.trix-content pre[data-theme='gruvbox.dark'] .ss {
+  color: #83a598;
+}
