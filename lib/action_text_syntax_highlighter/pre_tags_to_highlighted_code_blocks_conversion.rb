@@ -1,7 +1,7 @@
-module CoreExtensions
-  module RichTextCodeBlocksConversion
+module ActionTextSyntaxHighlighter
+  module PreTagsToHighlightedCodeBlocksConversion
 
-    def convert_code_blocks_to_highlighted
+    def convert_pre_tags_to_highlighted_code_blocks
       @document = Nokogiri::HTML::DocumentFragment.parse(body.to_html)
       @document.css("pre").each do |node|
         code_block_content = sanitizer.sanitize node.inner_html

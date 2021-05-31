@@ -20,7 +20,7 @@ export class TrixCodeBlockHighlighter {
 
   saveCodeBlock(block, sgid) {
     fetch(`${ActionTextSyntaxHighlighter.basePath}/${sgid}`, {
-      method: "PUT",
+      method: "PATCH",
       headers: getDefaultHeaders(),
       body: block
     })

@@ -1,5 +1,5 @@
-module ActionText
-  module HasCodeBlocks
+module ActionTextSyntaxHighlighter
+  module HasHighlightedCodeBlocks
     extend ActiveSupport::Concern
 
     included do
