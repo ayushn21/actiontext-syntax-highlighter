@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-ENGINE_ROOT             = File.expand_path('..', __dir__)
 DIST_PATH               = File.expand_path('../dist/modules', __dir__)
 JAVASCRIPT_SOURCE_PATH  = File.expand_path('../app/frontend/action_text_syntax_highlighter/javascript/*.js', __dir__)
 CSS_SOURCE_PATH         = File.expand_path('../app/frontend/action_text_syntax_highlighter/css/*.css', __dir__)
