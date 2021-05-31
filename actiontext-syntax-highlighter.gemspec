@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Ayush Newatia"]
   spec.email       = ["ayush@hey.com"]
   spec.homepage    = "https://github.com/ayushn21/actiontext-syntax-highlighter"
-  spec.summary     = "Extends ActionText to support highlighed code blocks"
+  spec.summary     = "Extends ActionText to support highlighted code blocks"
   spec.license     = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
