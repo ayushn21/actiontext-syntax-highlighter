@@ -1,5 +1,5 @@
 class ActionTextSyntaxHighlighter::HighlightedCodeBlock < ApplicationRecord
-  include ActionText::Attachable, SupportedLanguages, DefaultThemes
+  include ActionText::Attachable, SupportedLanguages
 
   self.table_name = "action_text_highlighted_code_blocks"
 
