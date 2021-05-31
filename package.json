@@ -5,6 +5,7 @@
   "main": "app/assets/javascripts/action_text_syntax_highlighter.js",
   "files": [
     "app/assets/javascripts/*.js",
+    "app/assets/javascripts/*.js.map",
     "app/frontend/action_text_syntax_highlighter/css/themes/*.css"
   ],
   "homepage": "https://github.com/ayushn21/actiontext-syntax-highlighter",
@@ -27,6 +28,7 @@
     "css-loader": "^4.3.0",
     "esbuild-loader": "^2.10.0",
     "webpack": "^5.6.0",
-    "webpack-cli": "^4.2.0"
+    "webpack-cli": "^4.2.0",
+    "style-loader": "^2.0.0"
   }
 }
