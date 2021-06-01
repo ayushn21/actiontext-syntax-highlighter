@@ -1,6 +1,6 @@
 {
   "name": "@ayushn21/actiontext-syntax-highlighter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extends ActionText to support highlighed code blocks",
   "main": "dist/modules/javascript/actiontext_syntax_highlighter.js",
   "files": [
