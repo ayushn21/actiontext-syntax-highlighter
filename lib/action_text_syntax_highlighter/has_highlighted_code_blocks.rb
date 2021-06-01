@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module ActionTextSyntaxHighlighter
   module HasHighlightedCodeBlocks
     extend ActiveSupport::Concern

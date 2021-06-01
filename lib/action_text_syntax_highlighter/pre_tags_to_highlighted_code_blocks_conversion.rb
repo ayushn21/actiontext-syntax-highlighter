@@ -1,6 +1,7 @@
+# frozen_string_literal: true
+
 module ActionTextSyntaxHighlighter
   module PreTagsToHighlightedCodeBlocksConversion
-
     def convert_pre_tags_to_highlighted_code_blocks
       @document = Nokogiri::HTML::DocumentFragment.parse(body.to_html)
       @document.css("pre").each do |node|
