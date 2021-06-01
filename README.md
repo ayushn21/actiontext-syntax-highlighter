@@ -1,3 +1,6 @@
+<img width="861" alt="screenshot" src="https://user-images.githubusercontent.com/4924039/120343433-9f91bc80-c2f0-11eb-876b-bcb0a977a020.png">
+
+
 # Description
 
 `actiontext-syntax-highlighter` is an extension for `rails/actiontext` to allow the user to add language specified code blocks that are then highlighted on the server using [Rouge](http://github.com/rouge-ruby/rouge).
