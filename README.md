@@ -60,7 +60,7 @@ config.action_text_syntax_highlighter.default_theme = :base16
 
 You can override the default theme by setting `@highlighted_code_block_theme` in your controller action where you're rendering out the rich text.
 
-This plugin requires a global `Trix` variable to create attachments, so require Trix in your application as below:
+`ActionTextSyntaxHighlighter` requires a global `Trix` variable to create attachments, so require Trix in your application as below:
 
 ```javascript
 window.Trix = require("trix")
@@ -79,6 +79,25 @@ If you wish, you can import pre-bundled JavaScript instead of the module as desc
 ```javascript
 import "@ayushn21/actiontext-syntax-highlighter/dist"
 ```
+
+## Converting existing rich texts
+
+If you've already code rich texts in your app with code blocks using a `pre` tag, you can use the method `convert_pre_tags_to_highlighted_code_blocks` on `ActionText::RichText` to migrate them over to highlighted code blocks.
+
+For example:
+
+```ruby
+ActionText::RichText.find_each do |rich_text|
+  rich_text.convert_pre_tags_to_highlighted_code_blocks
+end
+```
+
+## Cleaning up deleted code blocks
+
+`ActionTextSyntaxHighlighter` nullifies the `rich_text_id` on a `HighlightedCodeBlock` when it's removed from an `ActionText::RichText`. However it doesn't delete the record. 
+
+I recommend you set up a cron job to execute the included `ActionTextSyntaxHighlighter::PurgeDeletedHighlightedCodeBlocksJob` which will delete all `HighlightedCodeBlock`s over a day old without an associated `RichText`.
+
 
 ## Contributing
 
