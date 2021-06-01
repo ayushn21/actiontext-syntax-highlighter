@@ -56,16 +56,18 @@ export class TrixCodeBlockHighlighter {
 
   watchCursor() {
     this.element.addEventListener('trix-selection-change', event => {
-      this.updateToolbarCodeButtonState(this.editor.getPosition())
+      this.updateToolbarState(this.editor.getPosition())
     })
   }
 
-  updateToolbarCodeButtonState(position) {
+  updateToolbarState(position) {
     let attachmentType = this.editor.getDocument().getPieceAtPosition(position).attachment?.type
     if (attachmentType == "HighlightedCodeBlock") {
       this.editorToolbarCodeButton.classList.add("trix-active")
+      this.editorToolbar.dataset.disableStylingInteraction = true
     } else {
       this.editorToolbarCodeButton.classList.remove("trix-active")
+      this.editorToolbar.removeAttribute("data-disable-styling-interaction")
     }
   }
 

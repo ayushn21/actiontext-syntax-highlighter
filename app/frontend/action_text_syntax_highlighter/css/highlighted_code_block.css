@@ -28,6 +28,8 @@ figure[data-trix-mutable][data-trix-highlighted-code-block] pre {
   box-shadow: 0 0 0 1px highlight;
 }
 
-trix-toolbar[data-highlights-code-blocks] [data-trix-attribute='code'].trix-active {
+trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--text-tools > button,
+trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--block-tools > button,
+trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--file-tools > button {
   pointer-events: none;
 }
