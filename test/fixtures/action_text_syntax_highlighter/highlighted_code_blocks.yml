@@ -1,0 +1,23 @@
+ruby:
+  language: "Ruby"
+  content: |
+    def test_method
+      puts "Yay, I'm highlighted!"
+    end
+
+ruby_with_br:
+  language: "Ruby"
+  content: |
+    def test_method<br>
+      puts "Yay, I'm highlighted!"<br>
+    end
+
+ruby_without_rich_text:
+  language: "Ruby"
+  content: "I'm sending you back, to the future!"
+
+guessed_language:
+  content: "#!/bin/bash\necho Hello, world"
+
+missing_language:
+  content: "puts 'computer says no...'"

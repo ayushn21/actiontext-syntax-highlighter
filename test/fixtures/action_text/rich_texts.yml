@@ -1,4 +1,14 @@
-# one:
-#   record: name_of_fixture (ClassOfFixture)
-#   name: content
-#   body: <p>In a <i>million</i> stars!</p>
+one:
+  record: one (Post)
+  name: content
+  body: <p>In a <i>million</i> stars!</p>
+
+existing_pre_without_tags:
+  record: two (Post)
+  name: content
+  body: <pre>echo "Nothing to see here..."</pre>
+
+existing_pre_with_tags:
+  record: three (Post)
+  name: content
+  body: <pre><span>echo "I have terrible formatting"</span></pre>

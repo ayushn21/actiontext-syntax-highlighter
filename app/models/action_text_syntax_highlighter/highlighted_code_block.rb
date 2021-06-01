@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ActionTextSyntaxHighlighter::HighlightedCodeBlock < ApplicationRecord
   include ActionText::Attachable, SupportedLanguages
 

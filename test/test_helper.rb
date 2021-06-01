@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Configure Rails Environment
 ENV["RAILS_ENV"] = "test"
 
@@ -13,3 +15,17 @@ if ActiveSupport::TestCase.respond_to?(:fixture_path=)
   ActiveSupport::TestCase.file_fixture_path = ActiveSupport::TestCase.fixture_path + "/files"
   ActiveSupport::TestCase.fixtures :all
 end
+
+module ActionTextSyntaxHighlighter
+  module TestHelpers
+    def attachment_fragment_for(code_block)
+      sgid = code_block.attachable_sgid
+      <<~HTML
+      <action-text-attachment sgid="#{sgid}" content-type="text/html">
+      </action-text-attachment>
+      HTML
+    end
+  end
+end
+
+ActiveSupport::TestCase.include ActionTextSyntaxHighlighter::TestHelpers
