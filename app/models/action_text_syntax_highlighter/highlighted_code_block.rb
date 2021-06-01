@@ -31,6 +31,7 @@ class ActionTextSyntaxHighlighter::HighlightedCodeBlock < ApplicationRecord
 
   private
     def process_content
+      self.content = CGI.unescapeHTML(self.content)
       self.content&.gsub!(/<br>/, "\n")
     end
 
