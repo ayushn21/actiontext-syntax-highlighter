@@ -22,6 +22,9 @@ highlighted-code-block > select {
 figure[data-trix-mutable][data-trix-highlighted-code-block] pre {
   box-shadow: 0 0 0 1px highlight;
 }
+figure[data-trix-highlighted-code-block] {
+  width: 100%;
+}
 trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--text-tools > button,
 trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--block-tools > button,
 trix-toolbar[data-highlights-code-blocks][data-disable-styling-interaction] .trix-button-group--file-tools > button {
