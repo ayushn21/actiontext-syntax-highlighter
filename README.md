@@ -53,6 +53,12 @@ config.action_text_syntax_highlighter.default_theme = :base16
 
 You can override the default theme by setting `@highlighted_code_block_theme` in your controller action where you're rendering out the rich text.
 
+This plugin requires a global `Trix` variable to create attachments, so require Trix in your application as below:
+
+```javascript
+window.Trix = require("trix")
+```
+
 Finally, add a `data-highlights-code-blocks='true'` attribute to the Trix editor where you'd like to use this plugin:
 
 ```erb
