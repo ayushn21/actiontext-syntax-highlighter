@@ -1,6 +1,6 @@
 # Description
 
-`actiontext-syntax-highlighter` is an extension for `rails/actiontext` to allow the user to add language specific code blocks that are then highlighted on the server using [Rouge](http://github.com/rouge-ruby/rouge).
+`actiontext-syntax-highlighter` is an extension for `rails/actiontext` to allow the user to add language specified code blocks that are then highlighted on the server using [Rouge](http://github.com/rouge-ruby/rouge).
 
 **Check out the demo app to see how it works!**
 
