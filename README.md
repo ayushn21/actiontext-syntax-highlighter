@@ -2,7 +2,7 @@
 
 `actiontext-syntax-highlighter` is an extension for `rails/actiontext` to allow the user to add language specified code blocks that are then highlighted on the server using [Rouge](http://github.com/rouge-ruby/rouge).
 
-**Check out the demo app to see how it works!**
+[**Check out the demo app to see how it works!**](https://actiontext-syntax-highlighter.herokuapp.com).
 
 > Note: The experience is a bit flaky, especially on Safari. If you have any suggestions for how to improve it, please file an issue; or even better, open a Pull Request!
 
@@ -14,13 +14,20 @@ The changes to the code block are saved to the server every time edits are made.
 
 
 ## Installation
-Add this line to your application's Gemfile:
+
+Install ActionText if you haven't already done so:
+
+```shell
+$ bin/rails action_text:install
+```
+
+Then add this gem to your application's Gemfile:
 
 ```ruby
 gem 'actiontext-syntax-highlighter', require: 'action_text_syntax_highlighter/engine'
 ```
 
-And then execute:
+And bundle and install it:
 
 ```bash
 $ bundle
