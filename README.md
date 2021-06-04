@@ -7,7 +7,7 @@
 
 [**Check out the demo app to see how it works!**](https://actiontext-syntax-highlighter.herokuapp.com).
 
-> Note: The experience is a bit flaky, especially on Safari. If you have any suggestions for how to improve it, please file an issue; or even better, open a Pull Request!
+> Note: The experience is a bit flaky, especially on Safari. If you have any suggestions for how to improve it, please file an issue; or even better, open a Pull Request! I recommend using Firefox to test this out as that's where it works best!
 
 ## How it works
 
