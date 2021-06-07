@@ -29,6 +29,7 @@ figure[data-trix-mutable][data-trix-highlighted-code-block] pre {
 }
 
 figure[data-trix-highlighted-code-block] {
+  display: block;
   width: 100%;
 }
 
