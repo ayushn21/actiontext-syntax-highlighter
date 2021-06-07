@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    actiontext-syntax-highlighter (0.1.2)
+    actiontext-syntax-highlighter (0.1.3)
       rails (>= 6.0)
       rouge
 
