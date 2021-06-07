@@ -11,6 +11,7 @@ module ActionTextSyntaxHighlighter
     initializer "action_text_syntax_highlighter.allow_theme_attribute" do
       Rails.application.config.to_prepare do
         ActionText::ContentHelper.allowed_attributes << "data-theme"
+        ActionText::ContentHelper.allowed_attributes << "data-language"
       end
     end
 

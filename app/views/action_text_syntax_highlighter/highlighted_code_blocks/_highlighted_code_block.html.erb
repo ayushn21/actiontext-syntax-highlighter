@@ -1,4 +1,5 @@
 <% @highlighted_code_block_theme ||= ActionTextSyntaxHighlighter.default_theme %>
 <%= tag.pre highlighted_code_block.highlighted_content, data: {
-      theme: @highlighted_code_block_theme
+      theme: @highlighted_code_block_theme,
+      language: highlighted_code_block.language.downcase.presence
     } %>
